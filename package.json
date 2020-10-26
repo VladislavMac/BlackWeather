@@ -36,5 +36,6 @@
         "blackweather",
         "BlackWeather"
     ],
-    "author": "Vladislav Mac <mvvminsk@gmail.com>"
+    "author": "Vladislav Mac <mvvminsk@gmail.com>",
+    "license": "MIT"
 }
