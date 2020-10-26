@@ -4,7 +4,11 @@
     "engines": {
         "vscode": ">=0.9.0-pre.1"
     },
+    "categories": [
+        "Themes"
+    ],
     "publisher": "BlackWeather",
+    "icon": "BlueWeather.jpg",
     "contributes": {
         "themes": [
             {
@@ -16,9 +20,21 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/VladislavMac/BlackWeather.git"
+        "url": "https://github.com/VladislavMac/BlackWeather"
     },
     "bugs": {
         "url": "https://github.com/VladislavMac/BlackWeather/issues"
-    }
+    },
+    "homepage": "https://github.com/VladislavMac/BlackWeather/blob/main/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Onedark",
+        "Monokai",
+        "blueweather",
+        "BlueWeather",
+        "blackweather",
+        "BlackWeather"
+    ],
+    "author": "Vladislav Mac <mvvminsk@gmail.com>"
 }
