@@ -1,4 +1,4 @@
-# BlackWeather
+# BlueWeather
 
 #### made in Belarus    version 0.5.0
 
