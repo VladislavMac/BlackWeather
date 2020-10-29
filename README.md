@@ -16,7 +16,7 @@
 <hr>
 
 ## Css <br>
-![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/screenReactJS.jpg)
+![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/screenCSS.jpg)
 
 <br>
 
