@@ -1,14 +1,14 @@
 {        
     "name": "blueweather",
-    "version": "1.0.0",
+    "version": "0.5.0",
     "engines": {
         "vscode": ">=0.9.0-pre.1"
     },
     "categories": [
         "Themes"
     ],
-    "publisher": "BlackWeather",
-    "icon": "BlueWeather.jpg",
+    "publisher": "BW",
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
@@ -18,6 +18,10 @@
             }
         ]
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VladislavMac/BlackWeather"
+    },
     "bugs": {
         "url": "https://github.com/VladislavMac/BlackWeather/issues"
     },
@@ -25,12 +29,11 @@
     "keywords": [
         "Vscode",
         "Theme",
-        "Onedark",
-        "Monokai",
         "blueweather",
         "BlueWeather",
         "blackweather",
-        "BlackWeather"
+        "BlackWeather",
+        "BW"
     ],
     "author": "Vladislav Mac <mvvminsk@gmail.com>",
     "license": "MIT"
