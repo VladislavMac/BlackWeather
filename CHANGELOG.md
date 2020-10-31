@@ -1,3 +1,6 @@
+## 0.6.0
+### The icon has been completely changed 
+
 ## 0.5.5
 ### Rename repository and update css screenshot
 

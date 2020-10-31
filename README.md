@@ -1,6 +1,6 @@
 # BlueWeather
 
-#### made in Belarus    version 0.5.0
+#### made in Belarus    version 0.6.0
 
 ### Theme for VScode its pluses:<br> 
 
@@ -21,10 +21,22 @@
 <br>
 
 
-# what's new in version 0.5.0?
+# what's new in version 0.6.0?
 <br>
 
-## In version 0.5.0, the README file was changed, a new file with CHANGELOG versions  was added, the logo was changed and new screenshots were added
+## The icon has been completely changed 
+
+<br>
+
+## Before
+
+![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/logo.png)
+
+<br>
+
+## After
+![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/cloud.png)
+
 <br>
 
 ### For new changes click [here](https://github.com/VladislavMac/BlackWeather/blob/main/CHANGELOG.md 'CHANGELOG')
