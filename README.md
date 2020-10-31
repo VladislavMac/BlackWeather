@@ -1,6 +1,6 @@
 # BlueWeather
 
-#### made in Belarus    version 0.6.6
+#### made in Belarus    version 0.6.7
 
 ### Theme for VScode its pluses:<br> 
 

@@ -1,7 +1,7 @@
 {
 	"name": "blueweather",
 	"description": "Good coding theme 🎃",
-	"version": "0.6.6",
+	"version": "0.6.7",
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
 	},
@@ -34,8 +34,11 @@
 		"BlueWeather",
 		"blackweather",
 		"BlackWeather",
-		"BW"
-	],
+		"BW",
+		"monokai",
+		"Dark",
+		"dark one"
+		],
 	"author": "Vladislav Mac <mvvminsk@gmail.com>",
 	"license": "MIT",
 	"__metadata": {
