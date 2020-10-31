@@ -1,41 +1,46 @@
-{        
-    "name": "blueweather",
-    "description": "Good coding theme 🎃",
-    "version": "0.6.0",
-    "engines": {
-        "vscode": ">=0.9.0-pre.1"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "publisher": "BW",
-    "icon": "cloud2.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "BlueWeater",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueWeather.tmTheme"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/VladislavMac/BlackWeather"
-    },
-    "bugs": {
-        "url": "https://github.com/VladislavMac/BlackWeather/issues"
-    },
-    "homepage": "https://github.com/VladislavMac/BlackWeather/blob/main/README.md",
-    "keywords": [
-        "Vscode",
-        "Theme",
-        "blueweather",
-        "BlueWeather",
-        "blackweather",
-        "BlackWeather",
-        "BW"
-    ],
-    "author": "Vladislav Mac <mvvminsk@gmail.com>",
-    "license": "MIT"
+{
+	"name": "blueweather",
+	"description": "Good coding theme 🎃",
+	"version": "0.6.6",
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"publisher": "BW",
+	"icon": "cloud2.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "BlueWeater",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BlueWeather.tmTheme"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VladislavMac/BlackWeather"
+	},
+	"bugs": {
+		"url": "https://github.com/VladislavMac/BlackWeather/issues"
+	},
+	"homepage": "https://github.com/VladislavMac/BlackWeather/blob/main/README.md",
+	"keywords": [
+		"Vscode",
+		"Theme",
+		"blueweather",
+		"BlueWeather",
+		"blackweather",
+		"BlackWeather",
+		"BW"
+	],
+	"author": "Vladislav Mac <mvvminsk@gmail.com>",
+	"license": "MIT",
+	"__metadata": {
+		"id": "d61fe50f-a71c-488a-95d0-d21e8e797e7f",
+		"publisherDisplayName": "BW",
+		"publisherId": "3a0ec003-5376-442d-a16e-4b88d956822a"
+	}
 }

@@ -1,6 +1,6 @@
 # BlueWeather
 
-#### made in Belarus    version 0.6.0
+#### made in Belarus    version 0.6.6
 
 ### Theme for VScode its pluses:<br> 
 
@@ -11,7 +11,7 @@
 # Screenshot <br>
 ## Js + React
 
-![screenshot of sample](Screen/screenReactJS.jpg)
+![screenshot](https://i.ibb.co/1Zk78Rp/screen-React-JS.png)
 
 # what's new in version 0.6.0?
 <br>

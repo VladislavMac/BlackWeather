@@ -1,3 +1,6 @@
+## 0.6.5
+### fixing bugs
+
 ## 0.6.0
 ### The icon has been completely changed 
 
