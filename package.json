@@ -9,7 +9,7 @@
         "Themes"
     ],
     "publisher": "BW",
-    "icon": "cloud.png",
+    "icon": "cloud1.png",
     "contributes": {
         "themes": [
             {
