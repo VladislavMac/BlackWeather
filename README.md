@@ -30,12 +30,12 @@
 
 ## Before
 
-![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/logo.png)
+![screenshot of sample](https://github.com/VladislavMac/BlueWeather/blob/main/logo.png)
 
 <br>
 
 ## After
-![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/cloud.png)
+![screenshot of sample](https://github.com/VladislavMac/BlueWeather/blob/main/cloud.png)
 
 <br>
 
