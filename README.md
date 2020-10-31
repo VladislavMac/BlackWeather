@@ -11,15 +11,7 @@
 # Screenshot <br>
 ## Js + React
 
-![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/screenReactJS.jpg)
-
-<hr>
-
-## Css <br>
-![screenshot of sample](https://github.com/VladislavMac/BlackWeather/blob/main/Screen/screenCSS.jpg)
-
-<br>
-
+![screenshot of sample](Screen/screenReactJS.jpg)
 
 # what's new in version 0.6.0?
 <br>
@@ -28,15 +20,6 @@
 
 <br>
 
-## Before
-
-![screenshot of sample](https://github.com/VladislavMac/BlueWeather/blob/main/logo.png)
-
-<br>
-
-## After
-![screenshot of sample](https://github.com/VladislavMac/BlueWeather/blob/main/cloud2.png)
-
-<br>
-
 ### For new changes click [here](https://github.com/VladislavMac/BlackWeather/blob/main/CHANGELOG.md 'CHANGELOG')
+
+## Author [Vladislav Mac](https://github.com/VladislavMac 'Author')
