@@ -35,7 +35,7 @@
 <br>
 
 ## After
-![screenshot of sample](https://github.com/VladislavMac/BlueWeather/blob/main/cloud1.png)
+![screenshot of sample](https://github.com/VladislavMac/BlueWeather/blob/main/cloud2.png)
 
 <br>
 
