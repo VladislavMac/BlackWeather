@@ -1,5 +1,5 @@
-## 0.6.5
-### fixing bugs
+## 0.7.0
+### In version 0.7.0, the panel has been replaced with a marketplace, description, README file, basic colors have been changed
 
 ## 0.6.0
 ### The icon has been completely changed 
