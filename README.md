@@ -28,10 +28,10 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 
 ![screenshot](https://i.ibb.co/1Zk78Rp/screen-React-JS.png)
 
-# what's new in version 0.7.0?
+## What's new in version 0.7.0?
 <br>
 
-## In version 0.7.0, the panel has been replaced with a marketplace, description, README file, basic colors have been changed 
+### In version 0.7.0, the panel has been replaced with a marketplace, description, README file, basic colors have been changed 
 
 ### More details here [here](https://github.com/VladislavMac/BlackWeather/blob/main/CHANGELOG.md 'CHANGELOG')
 

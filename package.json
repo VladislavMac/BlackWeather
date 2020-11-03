@@ -1,7 +1,7 @@
 {
 	"name": "blueweather",
 	"description": "Dark blue 🐋 theme for VScode from BW",
-	"version": "0.7.0",
+	"version": "0.7.1",
 	"engines": {
 		"vscode": ">=0.9.0-pre.1"
 	},
@@ -41,7 +41,10 @@
 		"BW",
 		"monokai",
 		"Dark",
-		"dark one"
+		"dark one",
+		"weather",
+		"dark blue",
+		"blue dark"
 		],
 	"author": "Vladislav Mac <mvvminsk@gmail.com>",
 	"license": "MIT",
