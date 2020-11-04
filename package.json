@@ -21,16 +21,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VladislavMac/BlackWeather"
+		"url": "https://github.com/VladislavMac/BlueWeather"
 	},
 	"galleryBanner": {
         "color": "#252947",
         "theme": "dark"
     },
 	"bugs": {
-		"url": "https://github.com/VladislavMac/BlackWeather/issues"
+		"url": "https://github.com/VladislavMac/BlueWeather/issues"
 	},
-	"homepage": "https://github.com/VladislavMac/BlackWeather/blob/main/README.md",
+	"homepage": "https://github.com/VladislavMac/BlueWeather/blob/main/README.md",
 	"keywords": [
 		"Vscode",
 		"Theme",
